@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: rgb(215, 219, 216);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+main {
+    flex: 1 0 auto;
+    padding: 50px;
+}
+
+.nav-wrapper {
+    background-color: rgb(41, 91, 46);
+}
+
+footer.page-footer {
+    padding-top: 0;
+    text-align: center;
+    background-color: rgb(41, 91, 46);
+}
+nav ul a {
+    font-size: 18px;
+}
+
+#nav-title {
+    font-family: 'Paytone One', sans-serif;
+    font-size: 45px;
+}
