@@ -26,6 +26,10 @@ nav ul a {
     font-size: 18px;
 }
 
+input.btn {
+    background-color: rgb(41, 91, 46);
+}
+
 #nav-title {
     font-family: 'Paytone One', sans-serif;
     font-size: 45px;
